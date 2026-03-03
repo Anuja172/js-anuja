@@ -13,5 +13,22 @@ console.log(valueinnumber1);
 //null=0
 //undefined=NaN
 
+let no=33
+let stringnumber = String(no)
+console.log(stringnumber);
+console.log(typeof stringnumber);
+
+//****************operations*********
+
+console.log(3+4*5%3);
+console.log("1"+ 2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");
+
+
+
+
+
 
 
